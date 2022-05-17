@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matheuscrz
-- 👀 I'm interested in Software Engineering and areas with AI, Deep Learning and Machine Learning. 
+- 👀 I'm interested in Software Engineering and areas with AI, Deep Learning and Machine Learning. I'm studying to be a fullstack developer
 - 🌱 I'm currently learning Java, Python and Haskell languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
