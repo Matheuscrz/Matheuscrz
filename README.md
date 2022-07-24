@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Matheus-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="src/assets/perfil.gif">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/ee5e514a0476612a5493c395539ac121.gif">
 </div>
 
   ##
