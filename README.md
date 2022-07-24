@@ -1,8 +1,8 @@
 ## Hi! I'm matheus, Computer Engineering student and full-stack developer.
 
 - 👋 Hi, I’m @Matheuscrz
-- 👀 I'm interested in Software Engineering and areas with AI, Deep Learning and Machine Learning. I'm studying to be a fullstack developer
-- 🌱 I'm currently learning JavaScript, Python,C++ and Java languages. I know a little about each.
+- 👀 Beginner full-stack developer, Computer Engineering course at UFS. I like programming although I don't have time to dedicate myself, I study several languages ​​(Js, Ts, Java, Python) and some frameworks (Angular, Spring) that I believe contributed to my professional development.
+- 🌱 I'm currently studying some frameworks, although I'm not an expert, I can develop some basic things using them.
 <div align="center">
   <a href="https://github.com/Matheuscrz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Matheus-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/232cea97d98e19e928f8bffeebd98fc6.gif">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
   ##
