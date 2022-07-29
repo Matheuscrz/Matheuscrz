@@ -1,4 +1,4 @@
-## Hi! I'm matheus, Computer Engineering student and full-stack developer.
+## Hi! I'm Matheus, Computer Engineering student and full-stack developer.
 
 - 👋 Hi, I’m @Matheuscrz
 - 👀 Beginner full-stack developer, Computer Engineering course at UFS. I like programming although I don't have time to dedicate myself, I study several languages ​​(Js, Ts, Java, Python) and some frameworks (Angular, Spring) that I believe contributed to my professional development.
