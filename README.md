@@ -1,8 +1,8 @@
-## Hi! I'm Matheus, Computer Engineering student.
+## Oi! Eu sou o Matheus, Estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
 
-- 👋 Hi, I’m @Matheuscrz
-- 👀 Beginner full-stack developer, Computer Engineering course at UFS. I like programming although I don't have time to dedicate myself, I study several languages ​​(Js, Ts, Java, Python) and some frameworks (Angular, Spring) that I believe contributed to my professional development.
-- 🌱 I'm currently studying some frameworks, although I'm not an expert, I can develop some basic things using them.
+- 👋 Olá, eu sou @Matheuscrz
+- 👀 Desenvolvedor iniciante. Gosto de programar e busco me dedicar e aprender cada vez mais, conheço um pouco de várias linguagens (JavaScript, TypeScript, Java, Python), mas busco me aperfeiçoar nas que tenho uma afinidade maior (JavaScript e Python).
+- 🌱 Atualmente não estudo nenhum framework. Embora acredite que iram contribuir muito para meu desenvolvimento, estou buscando construir uma boa base. Estou chegando na metade da minha graduação (Iniciando o 4º período). Ainda não me considero um júnior, acredito que preciso de mais conhecimento e experiência e estou em busca de um estágio.
 <div align="center">
   <a href="https://github.com/Matheuscrz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
