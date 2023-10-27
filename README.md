@@ -1,8 +1,8 @@
-## Oi! Eu sou o Matheus, Estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
-
-- 👋 Olá, eu sou @Matheuscrz
-- 👀 Desenvolvedor iniciante. Gosto de programar e busco me dedicar e aprender cada vez mais, conheço um pouco de várias linguagens (JavaScript, TypeScript, Java, Python), mas busco me aperfeiçoar nas que tenho uma afinidade maior (JavaScript e Python).
-- 🌱 Atualmente não estudo nenhum framework. Embora acredite que iram contribuir muito para meu desenvolvimento, estou buscando construir uma boa base. Estou chegando na metade da minha graduação (Iniciando o 4º período). Ainda não me considero um júnior, acredito que preciso de mais conhecimento e experiência e estou em busca de um estágio.
+# Olá! Eu sou o Matheus, estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS). 
+  
+ - 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz) 
+ - 👀 Sou um desenvolvedor iniciante. Tenho paixão por programação e estou constantemente buscando me aprimorar. Possuo conhecimentos em diversas linguagens, incluindo JavaScript, TypeScript, Java e Python, mas estou focado em me aprofundar em TypeScript e Java, as quais tenho uma afinidade maior. 
+ - 🌱 Atualmente, sou estagiário de desenvolvimento na Sergipetec, onde estou encarregado do desenvolvimento de um sistema de registro de ponto eletrônico para a empresa. Sou responsável por toda a aplicação, desde o banco de dados até o frontend. Esta experiência tem contribuído significativamente para o meu aprendizado e para o desenvolvimento de diversas habilidades, inclusive em áreas que não tinha experiência, como mobile.
 <div align="center">
   <a href="https://github.com/Matheuscrz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
