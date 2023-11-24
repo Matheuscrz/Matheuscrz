@@ -1,8 +1,8 @@
-# Olá! Eu sou o Matheus, estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS). 
-  
- - 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz) 
- - 👀 Sou um desenvolvedor iniciante. Tenho paixão por programação e estou constantemente buscando me aprimorar. Possuo conhecimentos em diversas linguagens, incluindo JavaScript, TypeScript, Java e Python, mas estou focado em me aprofundar em TypeScript e Java, as quais tenho uma afinidade maior. 
- - 🌱 Atualmente, sou estagiário de desenvolvimento na Sergipetec, onde estou encarregado do desenvolvimento de um sistema de registro de ponto eletrônico para a empresa. Sou responsável por toda a aplicação, desde o banco de dados até o frontend. Esta experiência tem contribuído significativamente para o meu aprendizado e para o desenvolvimento de diversas habilidades, inclusive em áreas que não tinha experiência, como mobile.
+# Olá! Eu sou o Matheus, estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
+
+- 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz)
+- 👀 Sou um desenvolvedor iniciante. Tenho paixão por programação e estou constantemente buscando me aprimorar. Possuo conhecimentos em diversas linguagens, incluindo JavaScript, TypeScript, Java e Python, mas estou focado em me aprofundar em TypeScript e Java, as quais tenho uma afinidade maior.
+- 🌱 Atualmente, sou estagiário de desenvolvimento na Sergipetec, onde estou encarregado do desenvolvimento de um sistema de registro de ponto eletrônico para a empresa. Sou responsável por toda a aplicação, desde o banco de dados até o frontend. Esta experiência tem contribuído significativamente para o meu aprendizado e para o desenvolvimento de diversas habilidades, inclusive em áreas que não tinha experiência, como mobile.
 <div align="center">
   <a href="https://github.com/Matheuscrz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuscrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
