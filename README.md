@@ -37,7 +37,7 @@
   <div>
   <h3 align="left">Connect with me:</h3>
   <a href = "mailto:matheuslimasof.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheuslcz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheuslcz/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheuslcz" height="30" width="40" /></a> 
   <a href="https://codepen.io/matheuscrz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matheuscrz" height="30" width="40" /></a>
   <a href="https://dev.to/matheuscrz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="matheuscrz" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/17122244" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17122244" height="30" width="40" /></a> 
