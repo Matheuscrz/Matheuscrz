@@ -46,7 +46,6 @@
   <a href="https://www.topcoder.com/members/matheuslcz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="matheuslcz" height="30" width="40" /></a>
   </div>
 
-      
    ##
   <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscrz&label=Profile%20views&color=0e75b6&style=flat" alt="matheuscrz" /> </p>
