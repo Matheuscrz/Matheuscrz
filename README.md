@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm @Matheuscrz, a Computer Engineering student at the Federal University of Sergipe (UFS).
 
-- 👀 I'm a junior developer and always looking to improve my skills. I have experience with C# using the .NET framework, relational databases like PostgreSQL, and non-relational databases.
+- 👀 I'm a junior developer, always looking to improve my skills. I have experience with C# using the .NET framework, relational databases like PostgreSQL, and non-relational databases.
 
 - 🌱 Currently, I work as a junior developer at Sergipetec, where I am responsible for managing and developing a monitoring and management system in the software factory. My role includes system planning, database implementation, and backend development. I am gaining valuable experience in project and team management while continuing my journey as a backend developer.
 
