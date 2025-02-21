@@ -1,14 +1,39 @@
 # About Me
 
-- 👋 Hi, I'm [@Matheuscrz](https://github.com/Matheuscrz), a Computer Engineering student at the Federal University of Sergipe (UFS).
-- 👀 I'm a junior developer with a passion for programming, constantly striving to improve my skills. I have knowledge in C# using the .NET framework, relational databases like Postgres, and non-relational databases.
-- 🌱 Currently, I am a junior developer at Sergipetec, where I manage and develop a monitoring and management system in the software factory. I am responsible for system planning and the implementation of the database and backend. I am gaining valuable experience in project and team management while continuing my role as a backend.
+- 👋 Hi, I'm @Matheuscrz, a Computer Engineering student at the Federal University of Sergipe (UFS).
+
+- 👀 I'm a junior developer and always looking to improve my skills. I have experience with C# using the .NET framework, relational databases like PostgreSQL, and non-relational databases.
+
+- 🌱 Currently, I work as a junior developer at Sergipetec, where I am responsible for managing and developing a monitoring and management system in the software factory. My role includes system planning, database implementation, and backend development. I am gaining valuable experience in project and team management while continuing my journey as a backend developer.
+
+- 👩‍💻 Currently working at Sergipe Parque Tecnológico
+
+- 🧠 Specializing in backend development and studying cybersecurity in my free time.
+
+- 👯‍♀️ Looking to collaborate on exciting projects and open-source initiatives.
+
+- 🤔 Seeking help with advanced backend development and system architecture.
+
+- 💬 Ask me about backend development, database management, and cybersecurity.
 
 # Sobre Mim
 
-- 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz), estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
-- 👀 Sou um desenvolvedor junior com paixão por programação, constantemente buscando melhorar minhas habilidades. Possuo conhecimento em C# utilizando o framework .NET, bancos de dados relacionais como Postgres e não relacionais.
-- 🌱 Atualmente, sou desenvolvedor junior na Sergipetec, onde estou encarregado da gestão e desenvolvimento de um sistema de monitoramento e gestão na fábrica de software. Sou responsável pelo planejamento do sistema e implementação do banco de dados e backend. Estou adquirindo valiosa experiência em gestão de projetos e equipe, além de continuar com meu papel de desenvolvedor backend.
+- 👋 Olá, eu sou @Matheuscrz, estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
+
+- 👀 Sou um desenvolvedor júnior, sempre buscando aprimorar minhas habilidades. Tenho experiência com C# utilizando o framework .NET, bancos de dados relacionais como PostgreSQL e bancos de dados não relacionais.
+
+- 🌱 Atualmente, trabalho como desenvolvedor júnior na Sergipetec, onde sou responsável pela gestão e desenvolvimento de um sistema de monitoramento e gestão na fábrica de software. Minhas funções incluem planejamento do sistema, implementação do banco de dados e desenvolvimento do backend. Estou adquirindo experiência valiosa em gestão de projetos e equipes, além de continuar minha jornada como desenvolvedor backend.
+
+- 👩‍💻 Atualmente trabalhando no Sergipe Parque Tecnológico
+
+- 🧠 Especializando-me em desenvolvimento backend e estudando cibersegurança nas horas vagas.
+
+- 👯‍♀️ Busco colaborar em projetos inovadores e iniciativas open-source.
+
+- 🤔 Procuro ajuda com desenvolvimento backend avançado e arquitetura de sistemas.
+
+- 💬 Me pergunte sobre desenvolvimento backend, gerenciamento de bancos de dados e cibersegurança.
+_________
 
 <div align="center">
   <a href="https://github.com/Matheuscrz">
@@ -17,7 +42,25 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscrz&" alt="matheuscrz" />
 </div>
   <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 </div>
   
   ##
