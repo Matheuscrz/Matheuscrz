@@ -1,14 +1,14 @@
-# Sobre Mim
-
-- 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz), estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
-- 👀 Sou um desenvolvedor junior com paixão por programação, constantemente buscando melhorar minhas habilidades. Possuo conhecimento em C# utilizando o framework .NET, bancos de dados relacionais como Postgres e não relacionais.
-- 🌱 Atualmente, sou desenvolvedor junior na Sergipetec, onde estou encarregado da gestão e desenvolvimento de um sistema de monitoramento e gestão na fábrica de software. Sou responsável pelo planejamento do sistema e implementação do banco de dados e backend. Estou adquirindo valiosa experiência em gestão de projetos e equipe, além de continuar com meu papel de desenvolvedor backend.
-
 # About Me
 
 - 👋 Hi, I'm [@Matheuscrz](https://github.com/Matheuscrz), a Computer Engineering student at the Federal University of Sergipe (UFS).
 - 👀 I'm a junior developer with a passion for programming, constantly striving to improve my skills. I have knowledge in C# using the .NET framework, relational databases like Postgres, and non-relational databases.
 - 🌱 Currently, I am a junior developer at Sergipetec, where I manage and develop a monitoring and management system in the software factory. I am responsible for system planning and the implementation of the database and backend. I am gaining valuable experience in project and team management while continuing my role as a backend.
+
+# Sobre Mim
+
+- 👋 Olá, eu sou [@Matheuscrz](https://github.com/Matheuscrz), estudante de Engenharia da Computação na Universidade Federal de Sergipe (UFS).
+- 👀 Sou um desenvolvedor junior com paixão por programação, constantemente buscando melhorar minhas habilidades. Possuo conhecimento em C# utilizando o framework .NET, bancos de dados relacionais como Postgres e não relacionais.
+- 🌱 Atualmente, sou desenvolvedor junior na Sergipetec, onde estou encarregado da gestão e desenvolvimento de um sistema de monitoramento e gestão na fábrica de software. Sou responsável pelo planejamento do sistema e implementação do banco de dados e backend. Estou adquirindo valiosa experiência em gestão de projetos e equipe, além de continuar com meu papel de desenvolvedor backend.
 
 <div align="center">
   <a href="https://github.com/Matheuscrz">
