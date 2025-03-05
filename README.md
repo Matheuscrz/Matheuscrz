@@ -10,11 +10,13 @@
 
 - 🧠 Specializing in backend development and studying cybersecurity in my free time.
 
+- 💡 Research: My TCC research focuses on integrating deep learning and High Performance Computing (HPC). I am developing a neural network that combines PyTorch DDP with a DCN of autoencoders using k-means clustering. My focus is on enhancing network training by leveraging NVIDIA GPUs, CUDA, parallel computing, and distributed systems.
+
 - 👯‍♀️ Looking to collaborate on exciting projects and open-source initiatives.
 
 - 🤔 Seeking help with advanced backend development and system architecture.
 
-- 💬 Ask me about backend development, database management, and cybersecurity.
+- 💬 Ask me about backend development, database management, cybersecurity, or my research in deep learning and HPC.
 
 # Sobre Mim
 
@@ -28,11 +30,13 @@
 
 - 🧠 Especializando-me em desenvolvimento backend e estudando cibersegurança nas horas vagas.
 
+- 💡 Pesquisa: Meu TCC foca na integração de deep learning com High Performance Computing (HPC). Estou desenvolvendo uma rede neural que combina o DDP do PyTorch com uma rede DCN de autoencoders utilizando k-means. Meu objetivo é aprimorar o treinamento da rede utilizando GPUs NVIDIA, CUDA, computação paralela e sistemas distribuídos.
+
 - 👯‍♀️ Busco colaborar em projetos inovadores e iniciativas open-source.
 
 - 🤔 Procuro ajuda com desenvolvimento backend avançado e arquitetura de sistemas.
 
-- 💬 Me pergunte sobre desenvolvimento backend, gerenciamento de bancos de dados e cibersegurança.
+- 💬 Me pergunte sobre desenvolvimento backend, gerenciamento de bancos de dados, cibersegurança ou minha pesquisa em deep learning e HPC.
 _________
 
 <div align="center">
