@@ -1,13 +1,3 @@
-# About Me
-
-- 👋 Hi, I'm @Matheuscrz.
-- 👀 Backend developer, always looking to improve my skills.
-- 💼 Currently working as a backend developer at Sergipetec, focused on the development and maintenance of monitoring and management systems.
-- 🧠 Specialized in backend development, with experience in Java (Spring), relational (PostgreSQL) and non-relational databases, messaging, monitoring, and infrastructure automation.
-- 🚀 Interested in system architecture, microservices, automation, DevOps, and software engineering best practices.
-- 👯‍♂️ Looking to collaborate on innovative projects and open-source initiatives.
-- 💬 Ask me about backend development, databases, automation, messaging, monitoring, or system architecture.
-
 # Sobre Mim
 
 - 👋 Olá, eu sou @Matheuscrz.
@@ -22,10 +12,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
@@ -42,8 +28,6 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
@@ -71,7 +55,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
 ---
