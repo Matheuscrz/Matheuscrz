@@ -4,7 +4,7 @@
 - 💼 Atualmente atuo no **SergipeTec** desenvolvendo e mantendo sistemas internos que automatizam processos operacionais e eliminam trabalho manual.
 - ⚙️ No **Backend**, construo APIs REST e microsserviços com **Java 21** e **Spring Boot** (Spring Security, Spring Data JPA), aplicando **DDD**, **Clean Architecture** e **SOLID**, com **PostgreSQL**, **Redis** e **RabbitMQ**.
 - 🎨 No **Frontend**, desenvolvo interfaces responsivas com **React**, **TypeScript** e **TailwindCSS** integradas às APIs, participando de todo o ciclo de entrega — do levantamento de requisitos ao deploy.
-- 🚀 Cuido da qualidade e infraestrutura com testes automatizados (**JUnit**, **Mockito**), pipelines CI/CD (**Jenkins**), containers (**Docker / Docker Swarm**) em ambientes Linux e armazenamento S3 (**MinIO**).
+- 🚀 Cuido da qualidade e infraestrutura com testes automatizados (**JUnit**, **Mockito**), pipelines CI/CD (**Jenkins**), containers (**Docker / Docker Swarm**) em ambientes Linux e armazenamento S3.
 - 🌊 Desenvolvendo o [**MarAberto**](https://github.com/Matheuscrz/MarAberto), plataforma open-source de monitoramento costeiro e SOS para guarda-vidas com Spring Boot, PostGIS, RabbitMQ, Redis e Flutter, além de cursar Engenharia da Computação na UFS.
 - 💬 Me pergunte sobre desenvolvimento backend, arquitetura de software, mensageria, bancos de dados, testes ou automação de deploy.
 
